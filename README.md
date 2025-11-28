@@ -29,8 +29,7 @@
             ├── css/
             │ └── style.css
             └── js/
-
-<img width="1920" height="1200" alt="Screenshot 2025-11-28 155259" src="https://github.com/user-attachments/assets/fd7f541c-931f-455b-bacf-3768f3d3208e" />
+![WhatsApp Image 2025-11-28 at 17 10 28](https://github.com/user-attachments/assets/ca41776d-be9c-443f-92bf-a37bc5b64c6a)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f49abe4-c9ef-4276-a5a0-ca89bf44b043" />
 
